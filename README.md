@@ -247,6 +247,12 @@ Ce document est le fruit d'une conversation entre un citoyen et un assistant d'i
 
 **Version 0.0.0** — Brouillon ouvert.
 
+## Licences
+
+- **Code** (calculateurs, scripts, API) : [GNU AGPL-3.0](LICENSE)
+- **Textes** (manifestes, documentation, méthodologies) : [CC-BY-SA-4.0](LICENSE-DOCS)
+- **Intégrité éthique** : [CHARTER.md](CHARTER.md) — non juridique mais socialement contraignante
+
 ---
 
 *Pour toute remarque, contradiction ou proposition de fork : ouvrez une issue. La seule chose que nous refusons est l'opacité.*
