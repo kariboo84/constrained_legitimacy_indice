@@ -51,7 +51,7 @@ $$\gamma_k = \begin{cases} 2 & \text{si acteur présent aux niveaux 1, 2 et 3} \
 
 ### 2.3 Variable $S_p$ — Symétrie du Pouvoir
 
-$$S_p = \left( \frac{R_{\text{concernés}}}{R_{\text{décideurs}}} \right) \cdot \left( \frac{P_{\text{réelle}}}{P_{\text{attendue}}(\epsilon) \right)$$
+$$S_p = \left( \frac{R_{\text{concernés}}}{R_{\text{décideurs}}} \right) \cdot \left( \frac{P_{\text{réelle}}}{P_{\text{attendue}}(\epsilon)} \right)$$
 
 où $\epsilon$ est l'échelle de la décision :
 
@@ -194,7 +194,7 @@ $$\mathcal{T} = (\delta_{\text{présent}}, \delta_{\text{futur}}, \delta_{\text{
 
 ### Axiome 5 : Seuil d'irréversibilité ($\mathcal{I}$)
 
-$$\mathcal{I} = \{(p, q) \in \mathbb{N}^2 : p + q = 100, \text{ sacrifice de } p\% \text{ acceptable pour sauver } q\%\}$$
+$$\mathcal{I} = \left\{ (p, q) \in \mathbb{N}^2 : p + q = 100, \text{ sacrifice de } p\% \text{ acceptable pour sauver } q\% \right\}$$
 
 ---
 
