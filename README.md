@@ -5,23 +5,25 @@ Méta-manifeste pour un indice de légitimité contrainte.
 ## 📁 Structure du repo
 
 ```
-├── [calculator/](/calculator/)                       # Calculateur web (GitHub Pages)
+├── calculator/                     # Calculateur web (GitHub Pages)
 │   ├── index.html
 │   ├── css/style.css
 │   ├── js/ilc-calculator.js
 │   └── examples/
 ├── .github/workflows/                # Déploiement auto
 │   └── deploy.yml
-├── [CHARTER.md](/CHARTER)           # Charte d'honnêteté
+├── CHARTER.md                       # Charte d'honnêteté
 ├── LICENSE                          # AGPL-3.0 (code)
 ├── LICENSE-DOCS                     # CC-BY-SA-4.0 (textes)
-├── [Meta_Manifeste_ILC_v0.md](/Meta_Manifeste_ILC_v0)
+├── Meta_Manifeste_ILC_v0.md         # LE MANIFESTE
 └── README.md            # Ce fichier
 ```
+## LE MANIFEST 
+https://kariboo84.github.io/constrained_legitimacy_indice/Meta_Manifeste_ILC_v0
 
 ## 🌐 Calculateur en ligne
 
-https://kariboo84.github.io/constrained_legitimacy_indice/
+https://kariboo84.github.io/constrained_legitimacy_indice/calculator/
 
 ## 📜 Licences
 
